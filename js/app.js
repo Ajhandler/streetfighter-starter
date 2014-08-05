@@ -44,14 +44,4 @@ $(document).keydown(function(event){
     	}
     });
 
-// $(document).keydown(function(e) {
-//     if (e.keyCode == 88) {
-//       $('.ryu-action').hide();
-//       $('.ryu-cool').show();
-//     }   
-//   }).keyup(function(e) {
-//     if (e.keyCode == 88) {
-//       $('.ryu-cool').hide();
-//       $('.ryu-still').show();
-//     }
-//   });
+
